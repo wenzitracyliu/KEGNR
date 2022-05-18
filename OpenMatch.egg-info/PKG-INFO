@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: OpenMatch
+Version: 0.0.1
+Summary: An Open Source Package for Information Retrieval
+Home-page: UNKNOWN
+Author: OpenMatch Authors
+Author-email: zkt18{at}mails.tsinghua.edu.cn
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
